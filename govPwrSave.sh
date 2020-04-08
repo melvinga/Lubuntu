@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# FOR i5-8265U
 GOVERNOR_VALUE=powersave
 MAX_FREQ_VALUE=$(( 16 * 100000 ))
 MIN_FREQ_VALUE=$((  4 * 100000 ))
